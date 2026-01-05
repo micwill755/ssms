@@ -1,0 +1,114 @@
+2025-12-31 01:00:14,718 - mcp.server.lowlevel.server - DEBUG - [server.py:153] - Initializing server 'unreal-mcp-server'
+2025-12-31 01:00:14,718 - mcp.server.lowlevel.server - DEBUG - [server.py:385] - Registering handler for ListToolsRequest
+2025-12-31 01:00:14,718 - mcp.server.lowlevel.server - DEBUG - [server.py:446] - Registering handler for CallToolRequest
+2025-12-31 01:00:14,718 - mcp.server.lowlevel.server - DEBUG - [server.py:262] - Registering handler for ListResourcesRequest
+2025-12-31 01:00:14,718 - mcp.server.lowlevel.server - DEBUG - [server.py:290] - Registering handler for ReadResourceRequest
+2025-12-31 01:00:14,719 - mcp.server.lowlevel.server - DEBUG - [server.py:234] - Registering handler for PromptListRequest
+2025-12-31 01:00:14,719 - mcp.server.lowlevel.server - DEBUG - [server.py:249] - Registering handler for GetPromptRequest
+2025-12-31 01:00:14,719 - mcp.server.lowlevel.server - DEBUG - [server.py:275] - Registering handler for ListResourceTemplatesRequest
+2025-12-31 01:00:14,722 - mcp.server.lowlevel.server - DEBUG - [server.py:153] - Initializing server 'unreal-mcp-server'
+2025-12-31 01:00:14,722 - mcp.server.lowlevel.server - DEBUG - [server.py:385] - Registering handler for ListToolsRequest
+2025-12-31 01:00:14,722 - mcp.server.lowlevel.server - DEBUG - [server.py:446] - Registering handler for CallToolRequest
+2025-12-31 01:00:14,722 - mcp.server.lowlevel.server - DEBUG - [server.py:262] - Registering handler for ListResourcesRequest
+2025-12-31 01:00:14,722 - mcp.server.lowlevel.server - DEBUG - [server.py:290] - Registering handler for ReadResourceRequest
+2025-12-31 01:00:14,722 - mcp.server.lowlevel.server - DEBUG - [server.py:234] - Registering handler for PromptListRequest
+2025-12-31 01:00:14,722 - mcp.server.lowlevel.server - DEBUG - [server.py:249] - Registering handler for GetPromptRequest
+2025-12-31 01:00:14,722 - mcp.server.lowlevel.server - DEBUG - [server.py:275] - Registering handler for ListResourceTemplatesRequest
+2025-12-31 01:00:14,731 - unreal-mcp-server - INFO - [editor_tools.py:305] - Editor tools registered successfully
+2025-12-31 01:00:14,733 - unreal-mcp-server - INFO - [project_tools.py:98] - Project tools registered successfully
+2025-12-31 01:00:14,737 - unreal-mcp-server - INFO - [blueprint_tools.py:185] - Blueprint tools registered successfully
+2025-12-31 01:00:14,740 - unreal-mcp-server - INFO - [node_tools.py:246] - Node tools registered successfully
+2025-12-31 01:00:14,745 - unreal-mcp-server - INFO - [umg_tools.py:256] - UMG tools registered successfully
+2025-12-31 01:00:14,748 - asyncio - DEBUG - [selector_events.py:64] - Using selector: KqueueSelector
+2025-12-31 01:00:14,749 - unreal-mcp-server - INFO - [server.py:204] - Starting Unreal MCP Server
+2025-12-31 01:00:14,751 - mcp.server.lowlevel.server - DEBUG - [server.py:587] - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-12-31 01:00:14,751 - mcp.server.lowlevel.server - DEBUG - [server.py:587] - Received message: <mcp.shared.session.RequestResponder object at 0x1049239d0>
+2025-12-31 01:00:14,752 - mcp.server.lowlevel.server - INFO - [server.py:624] - Processing request of type ListToolsRequest
+2025-12-31 01:00:14,752 - mcp.server.lowlevel.server - DEBUG - [server.py:626] - Dispatching request of type ListToolsRequest
+2025-12-31 01:00:14,752 - mcp.server.lowlevel.server - DEBUG - [server.py:673] - Response sent
+2025-12-31 01:00:46,957 - mcp.server.lowlevel.server - DEBUG - [server.py:153] - Initializing server 'unreal-mcp-server'
+2025-12-31 01:00:46,958 - mcp.server.lowlevel.server - DEBUG - [server.py:385] - Registering handler for ListToolsRequest
+2025-12-31 01:00:46,959 - mcp.server.lowlevel.server - DEBUG - [server.py:446] - Registering handler for CallToolRequest
+2025-12-31 01:00:46,959 - mcp.server.lowlevel.server - DEBUG - [server.py:262] - Registering handler for ListResourcesRequest
+2025-12-31 01:00:46,959 - mcp.server.lowlevel.server - DEBUG - [server.py:290] - Registering handler for ReadResourceRequest
+2025-12-31 01:00:46,959 - mcp.server.lowlevel.server - DEBUG - [server.py:234] - Registering handler for PromptListRequest
+2025-12-31 01:00:46,959 - mcp.server.lowlevel.server - DEBUG - [server.py:249] - Registering handler for GetPromptRequest
+2025-12-31 01:00:46,959 - mcp.server.lowlevel.server - DEBUG - [server.py:275] - Registering handler for ListResourceTemplatesRequest
+2025-12-31 01:00:46,963 - mcp.server.lowlevel.server - DEBUG - [server.py:153] - Initializing server 'unreal-mcp-server'
+2025-12-31 01:00:46,963 - mcp.server.lowlevel.server - DEBUG - [server.py:385] - Registering handler for ListToolsRequest
+2025-12-31 01:00:46,963 - mcp.server.lowlevel.server - DEBUG - [server.py:446] - Registering handler for CallToolRequest
+2025-12-31 01:00:46,963 - mcp.server.lowlevel.server - DEBUG - [server.py:262] - Registering handler for ListResourcesRequest
+2025-12-31 01:00:46,963 - mcp.server.lowlevel.server - DEBUG - [server.py:290] - Registering handler for ReadResourceRequest
+2025-12-31 01:00:46,963 - mcp.server.lowlevel.server - DEBUG - [server.py:234] - Registering handler for PromptListRequest
+2025-12-31 01:00:46,964 - mcp.server.lowlevel.server - DEBUG - [server.py:249] - Registering handler for GetPromptRequest
+2025-12-31 01:00:46,964 - mcp.server.lowlevel.server - DEBUG - [server.py:275] - Registering handler for ListResourceTemplatesRequest
+2025-12-31 01:00:46,971 - unreal-mcp-server - INFO - [editor_tools.py:305] - Editor tools registered successfully
+2025-12-31 01:00:46,973 - unreal-mcp-server - INFO - [project_tools.py:98] - Project tools registered successfully
+2025-12-31 01:00:46,977 - unreal-mcp-server - INFO - [blueprint_tools.py:185] - Blueprint tools registered successfully
+2025-12-31 01:00:46,981 - unreal-mcp-server - INFO - [node_tools.py:246] - Node tools registered successfully
+2025-12-31 01:00:46,985 - unreal-mcp-server - INFO - [umg_tools.py:256] - UMG tools registered successfully
+2025-12-31 01:00:46,988 - asyncio - DEBUG - [selector_events.py:64] - Using selector: KqueueSelector
+2025-12-31 01:00:46,990 - unreal-mcp-server - INFO - [server.py:204] - Starting Unreal MCP Server
+2025-12-31 01:00:46,991 - mcp.server.lowlevel.server - DEBUG - [server.py:587] - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-12-31 01:00:46,992 - mcp.server.lowlevel.server - DEBUG - [server.py:587] - Received message: <mcp.shared.session.RequestResponder object at 0x1070bb9d0>
+2025-12-31 01:00:46,992 - mcp.server.lowlevel.server - INFO - [server.py:624] - Processing request of type ListToolsRequest
+2025-12-31 01:00:46,992 - mcp.server.lowlevel.server - DEBUG - [server.py:626] - Dispatching request of type ListToolsRequest
+2025-12-31 01:00:46,993 - mcp.server.lowlevel.server - DEBUG - [server.py:673] - Response sent
+2026-01-04 16:40:43,508 - unreal-mcp-server - INFO - [server.py:206] - Shutting down Unreal MCP Server
+2026-01-04 16:41:06,614 - mcp.server.lowlevel.server - DEBUG - [server.py:153] - Initializing server 'unreal-mcp-server'
+2026-01-04 16:41:06,615 - mcp.server.lowlevel.server - DEBUG - [server.py:385] - Registering handler for ListToolsRequest
+2026-01-04 16:41:06,615 - mcp.server.lowlevel.server - DEBUG - [server.py:446] - Registering handler for CallToolRequest
+2026-01-04 16:41:06,615 - mcp.server.lowlevel.server - DEBUG - [server.py:262] - Registering handler for ListResourcesRequest
+2026-01-04 16:41:06,615 - mcp.server.lowlevel.server - DEBUG - [server.py:290] - Registering handler for ReadResourceRequest
+2026-01-04 16:41:06,615 - mcp.server.lowlevel.server - DEBUG - [server.py:234] - Registering handler for PromptListRequest
+2026-01-04 16:41:06,615 - mcp.server.lowlevel.server - DEBUG - [server.py:249] - Registering handler for GetPromptRequest
+2026-01-04 16:41:06,615 - mcp.server.lowlevel.server - DEBUG - [server.py:275] - Registering handler for ListResourceTemplatesRequest
+2026-01-04 16:41:06,622 - mcp.server.lowlevel.server - DEBUG - [server.py:153] - Initializing server 'unreal-mcp-server'
+2026-01-04 16:41:06,622 - mcp.server.lowlevel.server - DEBUG - [server.py:385] - Registering handler for ListToolsRequest
+2026-01-04 16:41:06,622 - mcp.server.lowlevel.server - DEBUG - [server.py:446] - Registering handler for CallToolRequest
+2026-01-04 16:41:06,622 - mcp.server.lowlevel.server - DEBUG - [server.py:262] - Registering handler for ListResourcesRequest
+2026-01-04 16:41:06,622 - mcp.server.lowlevel.server - DEBUG - [server.py:290] - Registering handler for ReadResourceRequest
+2026-01-04 16:41:06,622 - mcp.server.lowlevel.server - DEBUG - [server.py:234] - Registering handler for PromptListRequest
+2026-01-04 16:41:06,622 - mcp.server.lowlevel.server - DEBUG - [server.py:249] - Registering handler for GetPromptRequest
+2026-01-04 16:41:06,622 - mcp.server.lowlevel.server - DEBUG - [server.py:275] - Registering handler for ListResourceTemplatesRequest
+2026-01-04 16:41:06,644 - unreal-mcp-server - INFO - [editor_tools.py:305] - Editor tools registered successfully
+2026-01-04 16:41:06,646 - unreal-mcp-server - INFO - [project_tools.py:98] - Project tools registered successfully
+2026-01-04 16:41:06,691 - unreal-mcp-server - INFO - [blueprint_tools.py:185] - Blueprint tools registered successfully
+2026-01-04 16:41:06,700 - unreal-mcp-server - INFO - [node_tools.py:246] - Node tools registered successfully
+2026-01-04 16:41:06,710 - unreal-mcp-server - INFO - [umg_tools.py:256] - UMG tools registered successfully
+2026-01-04 16:41:06,714 - asyncio - DEBUG - [selector_events.py:64] - Using selector: KqueueSelector
+2026-01-04 16:41:06,715 - unreal-mcp-server - INFO - [server.py:204] - Starting Unreal MCP Server
+2026-01-04 16:41:06,721 - mcp.server.lowlevel.server - DEBUG - [server.py:587] - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2026-01-04 16:41:06,723 - mcp.server.lowlevel.server - DEBUG - [server.py:587] - Received message: <mcp.shared.session.RequestResponder object at 0x1047bf9d0>
+2026-01-04 16:41:06,724 - mcp.server.lowlevel.server - INFO - [server.py:624] - Processing request of type ListToolsRequest
+2026-01-04 16:41:06,724 - mcp.server.lowlevel.server - DEBUG - [server.py:626] - Dispatching request of type ListToolsRequest
+2026-01-04 16:41:06,725 - mcp.server.lowlevel.server - DEBUG - [server.py:673] - Response sent
+2026-01-04 16:41:06,808 - unreal-mcp-server - INFO - [server.py:206] - Shutting down Unreal MCP Server
+2026-01-04 16:41:08,312 - mcp.server.lowlevel.server - DEBUG - [server.py:153] - Initializing server 'unreal-mcp-server'
+2026-01-04 16:41:08,312 - mcp.server.lowlevel.server - DEBUG - [server.py:385] - Registering handler for ListToolsRequest
+2026-01-04 16:41:08,312 - mcp.server.lowlevel.server - DEBUG - [server.py:446] - Registering handler for CallToolRequest
+2026-01-04 16:41:08,312 - mcp.server.lowlevel.server - DEBUG - [server.py:262] - Registering handler for ListResourcesRequest
+2026-01-04 16:41:08,312 - mcp.server.lowlevel.server - DEBUG - [server.py:290] - Registering handler for ReadResourceRequest
+2026-01-04 16:41:08,312 - mcp.server.lowlevel.server - DEBUG - [server.py:234] - Registering handler for PromptListRequest
+2026-01-04 16:41:08,312 - mcp.server.lowlevel.server - DEBUG - [server.py:249] - Registering handler for GetPromptRequest
+2026-01-04 16:41:08,312 - mcp.server.lowlevel.server - DEBUG - [server.py:275] - Registering handler for ListResourceTemplatesRequest
+2026-01-04 16:41:08,315 - mcp.server.lowlevel.server - DEBUG - [server.py:153] - Initializing server 'unreal-mcp-server'
+2026-01-04 16:41:08,315 - mcp.server.lowlevel.server - DEBUG - [server.py:385] - Registering handler for ListToolsRequest
+2026-01-04 16:41:08,315 - mcp.server.lowlevel.server - DEBUG - [server.py:446] - Registering handler for CallToolRequest
+2026-01-04 16:41:08,315 - mcp.server.lowlevel.server - DEBUG - [server.py:262] - Registering handler for ListResourcesRequest
+2026-01-04 16:41:08,315 - mcp.server.lowlevel.server - DEBUG - [server.py:290] - Registering handler for ReadResourceRequest
+2026-01-04 16:41:08,315 - mcp.server.lowlevel.server - DEBUG - [server.py:234] - Registering handler for PromptListRequest
+2026-01-04 16:41:08,315 - mcp.server.lowlevel.server - DEBUG - [server.py:249] - Registering handler for GetPromptRequest
+2026-01-04 16:41:08,315 - mcp.server.lowlevel.server - DEBUG - [server.py:275] - Registering handler for ListResourceTemplatesRequest
+2026-01-04 16:41:08,322 - unreal-mcp-server - INFO - [editor_tools.py:305] - Editor tools registered successfully
+2026-01-04 16:41:08,324 - unreal-mcp-server - INFO - [project_tools.py:98] - Project tools registered successfully
+2026-01-04 16:41:08,327 - unreal-mcp-server - INFO - [blueprint_tools.py:185] - Blueprint tools registered successfully
+2026-01-04 16:41:08,331 - unreal-mcp-server - INFO - [node_tools.py:246] - Node tools registered successfully
+2026-01-04 16:41:08,335 - unreal-mcp-server - INFO - [umg_tools.py:256] - UMG tools registered successfully
+2026-01-04 16:41:08,338 - asyncio - DEBUG - [selector_events.py:64] - Using selector: KqueueSelector
+2026-01-04 16:41:08,339 - unreal-mcp-server - INFO - [server.py:204] - Starting Unreal MCP Server
+2026-01-04 16:41:08,341 - mcp.server.lowlevel.server - DEBUG - [server.py:587] - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2026-01-04 16:41:08,341 - mcp.server.lowlevel.server - DEBUG - [server.py:587] - Received message: <mcp.shared.session.RequestResponder object at 0x1066a39d0>
+2026-01-04 16:41:08,341 - mcp.server.lowlevel.server - INFO - [server.py:624] - Processing request of type ListToolsRequest
+2026-01-04 16:41:08,342 - mcp.server.lowlevel.server - DEBUG - [server.py:626] - Dispatching request of type ListToolsRequest
+2026-01-04 16:41:08,342 - mcp.server.lowlevel.server - DEBUG - [server.py:673] - Response sent
