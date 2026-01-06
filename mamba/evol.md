@@ -69,3 +69,14 @@ C = h(input)  # Changes based on input!
 **Key insight**: Mamba **gave up** the FFT speedup to gain **selectivity**. The parallel scan algorithm compensates by being even faster (O(N) vs O(N log N)) and works for both training and inference.
 
 So FFT was crucial for S4, but Mamba moved beyond FFT to achieve input-dependent (selective) behavior!
+
+The Evolution Timeline:
+
+Basic SSM → Sequential, too slow
+S4 → FFT for training, recurrent for inference
+Mamba → Parallel scan for both, no FFT needed
+
+The Trade-off:
+
+S4: Fast training (FFT) but fixed behavior
+Mamba: Slightly different approach (scan) but selective behavior
