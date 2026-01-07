@@ -6,8 +6,6 @@ For an N-point DFT, the transformation matrix is:
 
 '''
 
-
-
 def vandermonde(x):
     n = len(x)
     V = [[0.0] * n for _ in range(n)]
